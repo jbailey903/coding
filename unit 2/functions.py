@@ -24,3 +24,34 @@ print  (good morning) # 1 instruction : print good morning
 # code instruction. if we dont we will get a error
 
 def exampple():
+    print (goodmorning)#1 instruction goodmorning
+
+
+    # phase 2 
+
+    a=input (enter a number)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# creat a function that will calculate 2 numbers
+# with different artithmetic operators
+    def calculate ():
+        numx input  (please enter a number
+numy = input (please enter another number)
+print (numx,numy)
+
+calculate()
