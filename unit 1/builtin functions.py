@@ -5,9 +5,9 @@ built in functions pre written code that is stored
 print (jaquan)
 print (399
 print (True
-
-#input functions that is built in function that allows
+ functions that is built in function that allows
 # users to type data into a program and assign it to a variable
+#input
 # special the newly inputted data will
 name =input (what is your Name)
 print (goodmorning jaquan)

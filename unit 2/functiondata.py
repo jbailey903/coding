@@ -45,3 +45,15 @@ width = 20
 
 
 def tempconverter(far):
+
+
+    def add (number1, number 2):
+
+        print (str(number1)+number2 + equals)
+        add (1,2)
+
+        def multipky(num):
+            num2=input(please type in a numbersum=num1 *(num2))
+            print(str(num1)+ * + str (num2)
+                  print(sum)
+                  print(str(num1 + str(num2)+
