@@ -1,0 +1,43 @@
+#lists- A system for collecting and organizing multiple peices
+# of data
+
+# list syntax (how it is written)
+# when we want to create a list, we first create a varaible name
+# and assign it to the square brackets []
+# we then put the data we want to collect  inside of 
+# the square brackets
+
+shoopingcart = {water', ice', ceral',apples'}
+
+
+
+# Accesing items into a list-
+#when we want to access an item ina list we write the variable name
+# and then use the square brackets and pass in the item position in 
+# the brackets 
+
+# python is a zero-based index language. meaning ; when counting
+# items, zero is treated as an actual number and is counted 
+
+print (shoopingCart){3}
+
+
+
+
+
+
+def additemtocart():
+bestbuycart=
+
+
+
+
+
+
+
+
+
+def numberslist(number):
+print(number should be able to past 60)
+numberslist={100,23,450,63,1,6,9,1000}
+placeholder=60
