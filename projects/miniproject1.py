@@ -8,3 +8,17 @@ test scores{ 'average score, failing score and passing score'}
 for ('studnets to pass they must get a 70 or higher')
 print(' the class avergage score was an 80')
 int()
+
+
+
+
+
+
+
+
+
+
+1. print('what is a function?')
+2. print('what are all the data types?')
+3.print ('what is a for loop?')
+4.
