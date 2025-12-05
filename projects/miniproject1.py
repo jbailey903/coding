@@ -1,24 +1,28 @@
- ():def multiple choice question
-print(' Multiple choice quiz that had up to 5 questions')
-if (one studnet gets all the questions right they will get an 100)
-if(one student gets half the questions right they get a 50)
-if(one student gets them all wrong they get a zero)            
-print('each studnet will get a grade out of 100')
-test scores{ 'average score, failing score and passing score'}
-for ('studnets to pass they must get a 70 or higher')
-print(' the class avergage score was an 80')
-int()
+def pythonQuiz():
+    grade = 0
+    print('1. What is a function argument?')
+    print('A. Placeholder data that goes into a function.')
+    print('B. Real data that goes into a function.')
+    print('C. A piece of data used to compare values.')
+    userAnswer = input()
+    # print('this is what the user typed : ' + userAnswer)
+    correctAnswer = 'b'
+    if userAnswer == correctAnswer:
+        print("Correct")
+        grade += 1
+    else: 
+        print("Incorrect")
 
-
-
-
-
-
-
-
-
-
-1. print('what is a function?')
-2. print('what are all the data types?')
-3.print ('what is a for loop?')
-4.
+    print('1. What is a function argument?')
+    print('A. Placeholder data that goes into a function.')
+    print('B. Real data that goes into a function.')
+    print('C. A piece of data used to compare values.')
+    userAnswer = input()
+    # print('this is what the user typed : ' + userAnswer)
+    correctAnswer = 'b'
+    if userAnswer == correctAnswer:
+        print("Correct")
+        grade += 1
+    else: 
+        print("Incorrect")
+pythonQuiz()
