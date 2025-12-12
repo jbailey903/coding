@@ -9,4 +9,6 @@ D-60-69
 F=59 and lower
 
 
-
+print(' students have grade in each semester for math,coding and history')
+print(' each kid in each class have a grade 50 in each class')
+grade=58
