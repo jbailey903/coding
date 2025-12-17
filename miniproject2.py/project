@@ -1,14 +1,23 @@
-i=week1
-while i<17
-print(17 weeks)
-i+1
-A=90-100
-B=80-89
-C=60-70
-D-60-69
-F=59 and lower
+def gpaCalculator():
+    print('What subject is this GPA for? ')
+    subject=  input()
+    print('the user typed in: ' + subject)
 
+    sum= 0
+    weekcount= 1
+      if gpa > 70 and gpa <80: 
+        print('what is the grade for week '+ str(weekcount))
+        grade = int(input())
+        # print('the user entered: '+ str(grade))
+        sum += grade
+        # print('total sum = ' + str(sum))
+        weekcount += 1
+        gpa = sum / weekcount
+        print('your gpa is :' + str(gpa))
+  while weekcount != 6:
+            print("C")
+        elif gpa > 80 and gpa<90:
+            print("B")
+        elif gpa > 90 and gpa < 100:
+            print("A")  
 
-print(' students have grade in each semester for math,coding and history')
-print(' each kid in each class have a grade 50 in each class')
-grade=58
